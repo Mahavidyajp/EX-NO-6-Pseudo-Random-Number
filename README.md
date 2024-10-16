@@ -56,3 +56,6 @@ int main()
 # OUTPUT:
 
 ![image](https://github.com/user-attachments/assets/66c33743-6659-4e1c-9b84-7f0c0d1d1523)
+
+# RESULT:
+The Implementation of Pseudorandom Number Generation Using Standard library is successful.
